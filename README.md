@@ -1,2 +1,1 @@
-# .github
-About The Open Lab
+# About The Open Lab
