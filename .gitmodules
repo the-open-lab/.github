@@ -1,6 +1,6 @@
+[submodule "dependencies/inkscape"]
+	path = dependencies/inkscape
+	url = https://gitlab.com/inkscape/inkscape
 [submodule "dependencies/Work-Sans"]
 	path = dependencies/Work-Sans
 	url = https://github.com/weiweihuanghuang/Work-Sans.git
-[submodule "dependencies/inkscape"]
-	path = dependencies/inkscape
-	url = https://gitlab.com/inkscape/inkscape.git
